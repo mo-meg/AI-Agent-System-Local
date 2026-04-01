@@ -8,7 +8,7 @@
 
 ## Setup
 
-### 1. Install Ollama
+Install Ollama
 https://ollama.com
 
 ```bash
