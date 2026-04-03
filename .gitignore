@@ -9,3 +9,6 @@ wheels/
 # Virtual environments
 .venv
 .env
+
+logs/app.log
+memory/agent_memory.db
